@@ -1,0 +1,14 @@
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.AssemblyInfoInputs.cache
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.AssemblyInfo.cs
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.csproj.CoreCompileInputs.cache
+/Applications/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp
+/Applications/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.deps.json
+/Applications/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.runtimeconfig.json
+/Applications/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.dll
+/Applications/SuperHeroesApp/bin/Debug/net8.0/SuperHeroesApp.pdb
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.dll
+/Applications/SuperHeroesApp/obj/Debug/net8.0/refint/SuperHeroesApp.dll
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.pdb
+/Applications/SuperHeroesApp/obj/Debug/net8.0/SuperHeroesApp.genruntimeconfig.cache
+/Applications/SuperHeroesApp/obj/Debug/net8.0/ref/SuperHeroesApp.dll
